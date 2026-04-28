@@ -4,7 +4,7 @@
 [![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 ## About the Project 
-This study investigates the heterogeneity in the returns to education within the service sector in Vietnam. Specifically, it aims to evaluate and compare the wage premium associated with educational attainment between high-end (knowledge-intensive) and low-end (traditional or labor-intensive) service segments.
+This study investigates heterogeneity in the returns to education within Vietnam's service sector. Specifically, it aims to evaluate and compare the wage premium associated with educational attainment between high-end (knowledge-intensive) and low-end (traditional or labor-intensive) service segments.
 
 ### Build With
 * **[R](https://www.r-project.org/)**: For data extraction, cleaning, feature engineering, OLS regression modeling, and data visualization (`tidyverse`, `haven`, `car`, `lmtest`, `sandwich`, `stargazer`, `ggplot2`).
@@ -69,7 +69,8 @@ econometrics-lfs18-group10/
 |  3  | 11245903   | Ngo Thi Tuyet Mai  | Write the Introduction, Theoretical Framework, summarize previous studies, and establish rationale for subsampling.<br>Complete the presentation slides.                                    |        26%        |
 |  4  | 11245832   | Duong Huu Tuan Anh | Extract data, handle missing values/outliers, generate variables, and compute descriptive statistics.<br>Shoot and edit presentation videos.                                                |        20%        |
 |     |            |                    | **Total**                                                                                                                                                                                   |     **100%**      |
-**Note: Task allocation is flexible. Team members actively cross-collaborate and support each other throughout the project's lifecycle.**
+
+*Note: Task allocation is flexible. Team members actively cross-collaborate and support each other throughout the project's lifecycle.*
 
 ---
 
@@ -80,4 +81,4 @@ econometrics-lfs18-group10/
 
 ---
 
-**Project completed for the Econometrics Course at National Economics University (NEU), Hanoi, 2026.**
+*Project completed for the Econometrics Course at National Economics University (NEU), Hanoi, 2026.*
