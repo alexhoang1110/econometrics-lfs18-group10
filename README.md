@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # econometrics-lfs18-group10
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -84,7 +82,3 @@ econometrics-lfs18-group10/
 ---
 
 *Project completed for the Econometrics Course at National Economics University (NEU), Hanoi, 2026.*
-<<<<<<< Updated upstream
-=======
->>>>>>> d1033082185997951b293a038f8242842a1b25f3
->>>>>>> Stashed changes
