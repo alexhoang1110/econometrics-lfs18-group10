@@ -4,7 +4,7 @@ library(tidyverse)
 library(readr)
 
 # Import raw data from Stata file (.dta)
-df_raw <- read_dta("data/dta/LFS_2018 (3)_cut_dup.dta")
+df_raw <- read_dta("LFS_2018 (3)_cut_dup.dta")
 
 # Select relevant variables from the dataset
 df_selected <- df_raw %>%
