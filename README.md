@@ -32,13 +32,10 @@ To capture the changing nature of the labor market and generational shifts, the 
 ```text
 econometrics-lfs18-group10/
 ├── data/                               # Data directory (Raw and Processed)
-│   ├── csv/                            # Cleaned and subsetted CSV datasets
-│   │   ├── df_clean.csv                # Full cleaned dataset ready for regression
-│   │   ├── df_middle.csv               # Subset for Middle-aged cohort (Aged 36-55)
-│   │   ├── df_raw.csv                  # Raw extracted data converted to CSV
-│   │   └── df_young.csv                # Subset for Young cohort (Aged 15-35)
-│   └── dta/                            # Raw Stata data
-│       └── LFS_2018 (3)_cut_dup.dta    # Original Vietnam LFS 2018 dataset
+│   │── df_clean.csv                    # Full cleaned dataset ready for regression
+│   │── df_middle.csv                   # Subset for Middle-aged cohort (Aged 36-55)
+│   │── df_raw.csv                      # Raw extracted data converted to CSV
+│   └── df_young.csv                    # Subset for Young cohort (Aged 15-35)
 ├── docs/                               # Output documents and final reports
 │   ├── Mincer_Wage_Analysis_LFS2018_Group10.pdf  # Final Academic Report
 │   ├── Presenting_Slide.pdf            # Presentation Slides
